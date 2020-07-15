@@ -31,7 +31,7 @@
 
 
 
-## intent:Tack expenditures by  categories
+## intent:Track expenditures by  categories
 - How much did i spend on [UBER](merchant_name) [last month](time_period)
 - How much did I pay [ravi](merchant_name) in [last 2 months](time_period)
 - Show my spend analysis of [Friday](day)
